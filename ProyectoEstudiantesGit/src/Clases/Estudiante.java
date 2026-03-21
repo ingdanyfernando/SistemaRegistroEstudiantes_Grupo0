@@ -26,5 +26,6 @@ public void mostrarInfo() {
 System.out.println("Carnet: " + carnet);
 System.out.println("Nombre: " + nombre);
 System.out.println("Edad: " + edad + " años");
+//sera maestro
 } 
 }
